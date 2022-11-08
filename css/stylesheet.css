@@ -24,7 +24,7 @@ body {
   flex-direction: column;
   align-items: center;
   min-height: 50vh;
-  width: min(80%, 50rem);
+  width: min(80%, 40rem);
   border-radius: 15px;
   border: none;
 }
@@ -54,6 +54,7 @@ body {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  transition: 0.2s ease-in-out;
 }
 .quote__btn:hover {
   background-color: lightcoral;

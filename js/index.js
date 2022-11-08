@@ -4,7 +4,7 @@ let quoteValue = document.querySelector(".quote__value");
 let quotes = [
   "In the world you will have tribulation. But take heart, I have overcome the world, John: 16:33",
   "So do not fear, for I am with you, do not be dismayed, for I am your God. I will strengthen you and help. I will uphold you with my righteous right hand, Isaiah 41:10",
-  "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding will guard your heats and your minds in Christ Jesus. Phillipians 4:6-7",
+  "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding will guard your hearts and your minds in Christ Jesus. Phillipians 4:6-7",
   "I sought the LORD and he answered me and delivered me from all my fears. Those who look to Him are radiant, and their faces shall never be ashamed. Oh, taste and see that the LORD is good! Blessed is the man who takes refuge in Him! Psalm 34: 4-5,8",
   "Have I not commanded you? Be strong and courages. Do not be frightened and do not be dismayed, for the LORD your God is with you wherever you go. Joshua 1:9",
   "Trust in the LORD with all your heart, and do not lean your own understanding. In all your ways acknowledge Him, and He will make straight your paths. Proverbs 3:5-6",
